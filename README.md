@@ -1,10 +1,10 @@
 # Solve a Rubik's Cube using Python, OpenCV, and Kociemba Module
 
-This repository contains the code and resources to solve a Rubik's Cube using Python, OpenCV, and the Kociemba module. The Kociemba module provides an efficient implementation of Kociemba's Two-Phase Algorithm, which is widely used for solving Rubik's Cubes.
+✨This repository contains the code and resources to solve a Rubik's Cube using Python, OpenCV, and the Kociemba module. The Kociemba module provides an efficient implementation of Kociemba's Two-Phase Algorithm, which is widely used for solving Rubik's Cubes.
 
 ## Prerequisites
 
-Before you begin, ensure that you have the following prerequisites installed on your system:
+🎁Before you begin, ensure that you have the following prerequisites installed on your system:
 
 - Python 3.x: [Download Python](https://www.python.org/downloads/)
 - OpenCV: `pip install opencv-python`
@@ -34,7 +34,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 # Contributing
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+🏆Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 # Acknowledgments
 
